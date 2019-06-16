@@ -1,0 +1,14 @@
+.smallphoto {
+    height: 200px;
+}
+
+#empty {
+    position: absolute;
+    height: 500px;
+    top: 0;
+    left: 0;
+}
+
+.bigphoto {
+    height: 100%;
+}
